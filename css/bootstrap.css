@@ -6754,4 +6754,7 @@ button.close {
     display: none !important;
   }
 }
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
 /*# sourceMappingURL=bootstrap.css.map */
