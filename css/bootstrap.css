@@ -6755,7 +6755,27 @@ button.close {
   }
 }
 
-h1{
-  font-family: "Times New Roman", Times, serif;
-}
+
+
 /*# sourceMappingURL=bootstrap.css.map */
+
+
+p{
+  font-size: 19px;
+}
+
+.btn-facebook{
+  border-color:#000000;
+  background-color:#3b5998;
+  color:#ffffff;
+}
+.btn-twitter{
+  border-color:#000000;
+  background-color: #1DA1F2;
+  color:#ffffff;
+}
+.btn-Instagram{
+  border-color:#000000;
+  background-color:#262626;
+  color:#ffffff;
+}
