@@ -6754,4 +6754,24 @@ button.close {
     display: none !important;
   }
 }
+
+
+
 /*# sourceMappingURL=bootstrap.css.map */
+
+
+p{
+  font-size: 19px;
+}
+
+.btn-facebook{
+  border-color:#000000;
+  background-color:#3b5998;
+  font-color:	#ffffff;
+}
+.btn-twitter{
+  border-color:#000000;
+  background-color:
+  font-color:
+
+}
