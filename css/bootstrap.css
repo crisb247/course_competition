@@ -6763,6 +6763,7 @@ button.close {
 p{
   font-size: 19px;
   border: groove;
+  background-color: #D3D3D3;
 }
 
 .btn-facebook{
@@ -6779,4 +6780,10 @@ p{
   border-color:#000000;
   background-color:#262626;
   color:#ffffff;
+}
+h1{
+  font-family: "Times New Roman", Times, serif;
+}
+body {
+    background-color: lightblue;
 }
